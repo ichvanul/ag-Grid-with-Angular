@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~10.2.0",
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
+    "@ngrx/store": "^10.0.1",
+    "ag-grid": "^18.1.2",
+    "ag-grid-angular": "^24.1.0",
+    "ag-grid-community": "^24.1.0",
+    "immer": "^7.0.14",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
